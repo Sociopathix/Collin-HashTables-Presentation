@@ -5,3 +5,5 @@ unique items. You will learn what a HashSet is, how to create and use objects, i
 and what HashSets are useful for!
 
 If you'd like to read more about HashSets, I suggest starting with this [Geeks for Geeks article](https://www.geeksforgeeks.org/java/interfaces-in-java/).
+
+The online Java compiler I often use in class can be found [here](https://www.programiz.com/java-programming/online-compiler/).
